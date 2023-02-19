@@ -1,7 +1,7 @@
 name: ✨ Feature Request
 description: Request a new feature or enhancement
-labels: ["enhancement"]
-title: "[FEAT]: "
+labels: ["feature"]
+title: ""
 body:
   - type: markdown
     attributes:
@@ -22,7 +22,7 @@ body:
       label: Alternative solution
       description: Give us more about other solutions or workarounds you used
     validations:
-      required: true
+      required: false
           
   - type: textarea
     id: additional-information
