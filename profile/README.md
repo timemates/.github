@@ -2,6 +2,7 @@
 # <p align="center">TimeMates</p>
 TimeMates is a team productivity tool with customizable timers, notes and assignment tracking, and integrations with platforms like GitHub. It helps teams stay organized, focused, and productive.
 
+> **Note** <br>
 > TimeMates is still in developing. [Suggestions](https://github.com/orgs/timemates/discussions) are welcome!
 
 ## <p align="center">Goals</p>
