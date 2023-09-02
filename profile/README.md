@@ -26,4 +26,4 @@ Your support means the world to us! Thank you! 🌟
 
 ## <p align="center">Follow us</p>
 - We are on Telegram – [@timemates](https://t.me/timemates)
-- We are on LinkedIn – [@timematesco](https://www.linkedin.com/company/timematesco)
+- We are on LinkedIn – [@timemates](https://www.linkedin.com/company/timemates)
